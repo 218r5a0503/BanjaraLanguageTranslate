@@ -2,5 +2,6 @@ Flask==2.3.2
 gunicorn==20.1.0
 numpy==1.24.3
 tensorflow==2.8.0
+protobuf==3.20.3
 setuptools>=42
 wheel
