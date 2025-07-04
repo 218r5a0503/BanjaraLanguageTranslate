@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+textarea {
+    width: 100%;
+}
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+#banjara_output {
+    margin-top: 15px;
+    font-weight: bold;
+}
