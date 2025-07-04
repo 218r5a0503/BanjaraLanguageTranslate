@@ -7,7 +7,7 @@ import pickle
 app = Flask(__name__)
 
 # Load model and metadata
-model = load_model("s2s_model.h5")
+model = load_model("s2s_model.keras")
 data = pickle.load(open("training_data.pkl", "rb"))
 
 input_characters = data['input_characters']
